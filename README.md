@@ -25,10 +25,15 @@ Like `./fdf France.XXL.fdf`
 All maps are stored in `maps` directory. Some of them are color implemented, others aren't so it's my default color choice.
 
 **Movements :** W, A, S, D
+
 **Rotations :** Up, Down, Left, Right (Arrow keys)
+
 **Flat view :** P
+
 **Topography view :** I
+
 **Zoom in / out :** G / T
+
 **Quit :** Esc or click on red cross
 
 ---

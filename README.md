@@ -1,4 +1,4 @@
-# fdf
+# fdf ![alt text](https://github.com/B-ki/fdf/assets/87602480/4a3fefea-f2e8-4266-ac93-65839a515f10)
 
 ---
 
@@ -10,11 +10,40 @@
 
 ## How to use it ?
 
+### Requirements
+
+minilibx installed and working : `sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev`
+
+### Examples
+
 `make` and `./fdf MAP_PATH`
 
 Like `./fdf France.XXL.fdf`
 
-All maps are stored in `maps` directory
+All maps are stored in `maps` directory. Some of them are color implemented, others aren't so it's my default color choice.
+
+**Movements :** W, A, S, D
+**Rotations :** Up, Down, Left, Right (Arrow keys)
+**Flat view :** P
+**Topography view :** I
+**Zoom in / out :** G / T
+**Quit :** Esc or click on red cross
+
+---
+
+## Examples
+
+**t2 :**
+![image](https://github.com/B-ki/fdf/assets/87602480/bda14a56-b3c0-4ec0-beed-c8a2ffc154ed)
+
+**France :**
+![image](https://github.com/B-ki/fdf/assets/87602480/653027b3-02a7-4473-8722-30aa6c1b03d1)
+
+**Japan :**
+![image](https://github.com/B-ki/fdf/assets/87602480/07b0c27d-cbdb-4713-a7c7-830c2d0dc479)
+
+**Julia :**
+![image](https://github.com/B-ki/fdf/assets/87602480/74106603-7b40-4bf9-b0f3-423e46f617f7)
 
 ---
 
